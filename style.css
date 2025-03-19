@@ -1,0 +1,23 @@
+.y{
+    background-color: #FFF200;
+    height: 300px;
+    width: 450px;
+}
+.body{
+    display: inline-block;
+    border: solid black 1px;
+}
+.b{
+    background-color: #0066B3;
+    width: 450px;
+    height: 90px;
+    position: absolute;
+    top: 130px;
+}
+.r{
+    background-color: #ED1C24;
+    width: 450px;
+    height: 90px;
+    position: absolute;
+    top: 220px;
+}
